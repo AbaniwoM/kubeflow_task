@@ -1,7 +1,7 @@
-import Header from './public/client/components/centraldashboard/Header';
-import Sidebar from './public/client/components/centraldashboard/Sidebar';
+import Header from './public/client/Header';
+import Sidebar from './public/client/Sidebar';
 import { Grid } from "@material-ui/core";
-import Ecosystem from './public/client/components/centraldashboard/Ecosystem';
+import Ecosystem from './public/client/Ecosystem';
 
 const App = () => {
   return (
