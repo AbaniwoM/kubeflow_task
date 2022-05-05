@@ -38,8 +38,7 @@ const SubApps = () => {
       <CardContent>
         <Typography
           gutterBottom
-          variant="h5"
-          style={{ backgroundColor: "#2196f3", height: "10vh", marginBottom: -24, marginRight: -16, marginLeft: -16, paddingLeft: 20, paddingTop: 20, color: "white"}}
+          variant="h6"
         >
           API of various sub-apps within the Kubeflow Ecosystem
         </Typography>

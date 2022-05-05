@@ -6,7 +6,7 @@ const useStyles = makeStyles((theme) => ({
     display: "flex",
     justifyContent: "space-between",
     backgroundColor: "#2196f3",
-    position: "absolute",
+    position: "fixed",
     width: "97%",
   },
   logoLg: {

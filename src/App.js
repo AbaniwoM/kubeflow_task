@@ -9,7 +9,7 @@ const App = () => {
       className="App"
       style={{
         backgroundColor: "#003c75",
-        height: "420vh",
+        height: "450vh",
         width: "100%",
         position: "relative",
         backgroundSize: "cover",
