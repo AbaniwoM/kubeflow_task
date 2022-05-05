@@ -16,4 +16,4 @@ This project was built with React.js and Material-ui. It is basically a Dashboar
 Open [https://kubeflow-task.netlify.app/](https://kubeflow-task.netlify.app/) to view it in your browser.
 
 ### Front-End Components
-Client side code resides in the public directory.
+Client side code resides in the public directory in the src folder.
